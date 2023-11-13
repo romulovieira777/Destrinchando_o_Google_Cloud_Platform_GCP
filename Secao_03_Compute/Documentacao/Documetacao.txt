@@ -1,2 +1,4 @@
 Documentação GCP - Compute Engine
 https://cloud.google.com/compute/docs?hl=pt-br
+
+https://cloud.google.com/compute/docs/instance-groups/autohealing-instances-in-migs?hl=pt-br
