@@ -1,0 +1,12 @@
+App Engine
+https://cloud.google.com/appengine?hl=pt_br
+
+App Engine Environments
+https://cloud.google.com/appengine/docs/the-appengine-environments?hl=pt-br
+
+App Engine yaml
+https://cloud.google.com/appengine/docs/standard/python/config/appref?hl=pt-br
+
+App Engine yaml - Flexable
+https://cloud.google.com/appengine/docs/flexible/reference/app-yaml?tab=python&hl=pt-br
+https://cloud.google.com/appengine/docs/flexible/reference/app-yaml?tab=python
