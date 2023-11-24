@@ -10,3 +10,6 @@ https://cloud.google.com/appengine/docs/standard/python/config/appref?hl=pt-br
 App Engine yaml - Flexable
 https://cloud.google.com/appengine/docs/flexible/reference/app-yaml?tab=python&hl=pt-br
 https://cloud.google.com/appengine/docs/flexible/reference/app-yaml?tab=python
+
+Cloud Run
+https://cloud.google.com/run?hl=pt-br
