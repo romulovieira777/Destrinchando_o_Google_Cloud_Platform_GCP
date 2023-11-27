@@ -13,3 +13,7 @@ https://cloud.google.com/appengine/docs/flexible/reference/app-yaml?tab=python
 
 Cloud Run
 https://cloud.google.com/run?hl=pt-br
+
+
+Cloud Fucntions
+https://cloud.google.com/functions/docs?hl=pt-br
