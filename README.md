@@ -5,6 +5,7 @@
 - [Seção 02 - IAM & Security](https://github.com/romulovieira777/Destrinchando_o_Google_Cloud_Platform_GCP/tree/main/Secao_02_IAM_%26_Security)
 - [Seção 03 - Compute](https://github.com/romulovieira777/Destrinchando_o_Google_Cloud_Platform_GCP/tree/main/Secao_03_Compute)
 - [Seção 04 - Serveless](https://github.com/romulovieira777/Destrinchando_o_Google_Cloud_Platform_GCP/tree/main/Secao_04_Serveless)
+- [Seção 05 - Storage](https://github.com/romulovieira777/Destrinchando_o_Google_Cloud_Platform_GCP/tree/main/Secao_05_Storage)
 
 
 Link para o curso: [Udemy](https://www.udemy.com/course/destrinchando-o-gcp/)
