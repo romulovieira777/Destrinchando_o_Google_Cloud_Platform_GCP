@@ -1,5 +1,8 @@
 Google Cloud Filestore
 https://cloud.google.com/filestore?hl=pt-BR
 
+Google Cloud Storage
+https://cloud.google.com/storage?hl=pt-br
+
 Google Cloud Datatransfer
 https://cloud.google.com/storage-transfer-service?hl=pt-br
