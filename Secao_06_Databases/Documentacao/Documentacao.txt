@@ -1,3 +1,6 @@
 Google Cloud Bigtable
 https://cloud.google.com/bigtable/docs?hl=pt-br
 
+Google CloudSQL
+https://cloud.google.com/sql/docs?hl=pt-br
+
