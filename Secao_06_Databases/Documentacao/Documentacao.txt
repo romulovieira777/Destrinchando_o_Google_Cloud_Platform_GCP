@@ -4,3 +4,17 @@ https://cloud.google.com/bigtable/docs?hl=pt-br
 Google CloudSQL
 https://cloud.google.com/sql/docs?hl=pt-br
 
+Banco NoSQL MongoDB
+https://www.mongodb.com/what-is-mongodb
+
+Google Cloud Datastore
+https://cloud.google.com/datastore/docs?hl=pt-br
+
+Google Cloud Firestore
+https://cloud.google.com/firestore/docs?hl=pt-br
+
+Escolher entre Google Cloud Datastore e Google Cloud Firestore
+https://cloud.google.com/firestore/docs/firestore-or-datastore?hl=pt-br
+
+Adicionando Dados ao Firestore
+https://firebase.google.com/docs/firestore/manage-data/add-data?hl=pt-br
