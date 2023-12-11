@@ -18,3 +18,7 @@ https://cloud.google.com/firestore/docs/firestore-or-datastore?hl=pt-br
 
 Adicionando Dados ao Firestore
 https://firebase.google.com/docs/firestore/manage-data/add-data?hl=pt-br
+
+Google Cloud Memorystore
+https://cloud.google.com/memorystore/docs?hl=pt-br
+https://cloud.google.com/memorystore?hl=pt-BR
