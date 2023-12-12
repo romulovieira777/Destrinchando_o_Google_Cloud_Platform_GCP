@@ -22,3 +22,7 @@ https://firebase.google.com/docs/firestore/manage-data/add-data?hl=pt-br
 Google Cloud Memorystore
 https://cloud.google.com/memorystore/docs?hl=pt-br
 https://cloud.google.com/memorystore?hl=pt-BR
+
+Google Cloud Spanner
+https://cloud.google.com/spanner/docs?hl=pt-br
+https://cloud.google.com/spanner?hl=pt-br
