@@ -26,3 +26,7 @@ https://cloud.google.com/memorystore?hl=pt-BR
 Google Cloud Spanner
 https://cloud.google.com/spanner/docs?hl=pt-br
 https://cloud.google.com/spanner?hl=pt-br
+
+Google Cloud Database Migration Service
+https://cloud.google.com/database-migration/docs?hl=pt-br
+https://cloud.google.com/database-migration?hl=pt-br
