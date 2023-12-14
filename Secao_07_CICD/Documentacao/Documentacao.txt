@@ -1,0 +1,10 @@
+Google Cloud Container Registry
+https://cloud.google.com/container-registry/docs/overview?hl=pt-br
+
+Google Cloud Artifact Registry
+https://cloud.google.com/artifact-registry/docs/overview?hl=pt-br
+https://cloud.google.com/artifact-registry?hl=pt-br
+
+Google Cloud Source Repositories (CSR)
+https://cloud.google.com/source-repositories?hl=pt-br
+https://cloud.google.com/source-repositories/docs/quickstart?hl=pt-br
