@@ -8,3 +8,11 @@ https://cloud.google.com/artifact-registry?hl=pt-br
 Google Cloud Source Repositories (CSR)
 https://cloud.google.com/source-repositories?hl=pt-br
 https://cloud.google.com/source-repositories/docs/quickstart?hl=pt-br
+
+Google Cloud Build
+https://cloud.google.com/build?hl=pt-br
+https://cloud.google.com/build/docs?hl=pt-br
+
+Google Cloud Deploy
+https://cloud.google.com/deploy?hl=pt-br
+https://cloud.google.com/deploy/docs?hl=pt-br
