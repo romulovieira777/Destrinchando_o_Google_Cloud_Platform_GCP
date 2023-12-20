@@ -1,2 +1,6 @@
 Google Cloud Virtual Private Cloud (VPC)
 https://cloud.google.com/vpc?hl=pt-BR
+
+
+Google Cloud Shared VPC
+https://cloud.google.com/vpc/docs/shared-vpc
