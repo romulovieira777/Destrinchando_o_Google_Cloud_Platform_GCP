@@ -8,3 +8,11 @@ https://cloud.google.com/vpc/docs/shared-vpc
 
 Google Cloud Load Balancing
 https://cloud.google.com/load-balancing?hl=pt-BR
+
+
+Google Cloud DNS
+https://cloud.google.com/dns?hl=pt-BR
+
+
+Google Cloud CDN
+https://cloud.google.com/cdn?hl=pt-BR
