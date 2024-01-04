@@ -16,3 +16,7 @@ https://cloud.google.com/dns?hl=pt-BR
 
 Google Cloud CDN
 https://cloud.google.com/cdn?hl=pt-BR
+
+
+Google Cloud NAT
+https://cloud.google.com/nat?hl=pt-BR
