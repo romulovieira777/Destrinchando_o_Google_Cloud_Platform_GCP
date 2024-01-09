@@ -35,3 +35,7 @@ https://cloud.google.com/network-connectivity/docs?hl=pt-BR
 
 Google Cloud Hybrid Connectivity - Cloud Interconnect
 https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview?hl=pt-BR
+
+
+Google Cloud Network Service Tiers
+https://cloud.google.com/network-tiers?hl=pt-BR
