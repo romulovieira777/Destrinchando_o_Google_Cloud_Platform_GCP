@@ -9,5 +9,6 @@
 - [Seção 06 - Databases](https://github.com/romulovieira777/Destrinchando_o_Google_Cloud_Platform_GCP/tree/main/Secao_06_Databases)
 - [Seção 07 - CICD](https://github.com/romulovieira777/Destrinchando_o_Google_Cloud_Platform_GCP/tree/main/Secao_07_CICD)
 - [Seção 08 - Network](https://github.com/romulovieira777/Destrinchando_o_Google_Cloud_Platform_GCP/tree/main/Secao_08_Network)
+- [Seção 09 - Analytics]()
 
 Link para o curso: [Udemy](https://www.udemy.com/course/destrinchando-o-gcp/)
