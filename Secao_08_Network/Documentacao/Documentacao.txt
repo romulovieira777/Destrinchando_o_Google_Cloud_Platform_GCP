@@ -28,3 +28,10 @@ https://cloud.google.com/vpc/docs/private-service-connect?hl=pt-BR
 
 Google Cloud Armor
 https://cloud.google.com/armor?hl=pt-BR
+
+
+Google Cloud Hybrid Connectivity - Cloud VPN
+https://cloud.google.com/network-connectivity/docs?hl=pt-BR
+
+Google Cloud Hybrid Connectivity - Cloud Interconnect
+https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview?hl=pt-BR
