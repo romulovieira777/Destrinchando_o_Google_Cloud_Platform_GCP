@@ -1,41 +1,32 @@
 Google Cloud Virtual Private Cloud (VPC)
 https://cloud.google.com/vpc?hl=pt-BR
 
-
 Google Cloud Shared VPC
 https://cloud.google.com/vpc/docs/shared-vpc
-
 
 Google Cloud Load Balancing
 https://cloud.google.com/load-balancing?hl=pt-BR
 
-
 Google Cloud DNS
 https://cloud.google.com/dns?hl=pt-BR
-
 
 Google Cloud CDN
 https://cloud.google.com/cdn?hl=pt-BR
 
-
 Google Cloud NAT
 https://cloud.google.com/nat?hl=pt-BR
-
 
 Google Cloud Private Service Connect
 https://cloud.google.com/vpc/docs/private-service-connect?hl=pt-BR
 
-
 Google Cloud Armor
 https://cloud.google.com/armor?hl=pt-BR
-
 
 Google Cloud Hybrid Connectivity - Cloud VPN
 https://cloud.google.com/network-connectivity/docs?hl=pt-BR
 
 Google Cloud Hybrid Connectivity - Cloud Interconnect
 https://cloud.google.com/network-connectivity/docs/interconnect/concepts/overview?hl=pt-BR
-
 
 Google Cloud Network Service Tiers
 https://cloud.google.com/network-tiers?hl=pt-BR
