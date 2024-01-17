@@ -20,3 +20,4 @@ https://beam.apache.org/get-started/quickstart-py/
 
 Google Cloud Bigquery
 https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-p-dr-1707800-LUAC0015653&utm_content=text-ad-none-any-DEV_c-CRE_532282943249-ADGP_Hybrid+%7C+SKWS+-+PHR+%7C+Txt+~+Data-Analytics_BigQuery-KWID_43700064907853699-kwd-408511403742&utm_ter
+https://cloud.google.com/bigquery?hl=en
