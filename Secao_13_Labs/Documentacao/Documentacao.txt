@@ -10,3 +10,9 @@ https://cloud.google.com/cloud-build/docs/quickstart-docker
 
 Google Cloud Source Repositories
 https://cloud.google.com/source-repositories/docs/quickstart
+
+Google Cloud Deploying a Cloud CDN origin authentication proxy
+https://cloud.google.com/architecture/deploying-a-cloud-cdn-origin-authentication-proxy
+
+Git
+https://github.com/GoogleCloudPlatform/cdn-auth-proxy
