@@ -16,3 +16,9 @@ https://cloud.google.com/architecture/deploying-a-cloud-cdn-origin-authenticatio
 
 Git
 https://github.com/GoogleCloudPlatform/cdn-auth-proxy
+
+Git
+https://github.com/marcelomarques05/destrinchando-o-gcp
+
+Terraform
+https://www.terraform.io/docs/index.html
