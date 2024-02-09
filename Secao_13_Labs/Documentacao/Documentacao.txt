@@ -22,3 +22,12 @@ https://github.com/marcelomarques05/destrinchando-o-gcp
 
 Terraform
 https://www.terraform.io/docs/index.html
+
+Terraform Registry
+https://registry.terraform.io/?product_intent=terraform
+
+Terraform Browser Provider
+https://registry.terraform.io/browse/providers
+
+Use a CI/CD pipeline for data-processing workflows
+https://cloud.google.com/architecture/cicd-pipeline-for-data-processing?hl=en
